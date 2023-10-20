@@ -37,7 +37,7 @@ export function Header() {
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <Link
-          href="https://github.com/ClemDev2000/chatdocs"
+          href="https://github.com/NyamasegeJoshua/chatgpt.git"
           className="group"
           aria-label="GitHub"
         >
