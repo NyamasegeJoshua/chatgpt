@@ -32,7 +32,7 @@ export function Header() {
     >
       <div className="relative flex flex-grow basis-0 items-center">
         <Link href="/" aria-label="Home page">
-          <img src="/chatdocs.svg" alt="ChatDocs" className="h-8 w-auto" />
+          <img src="/logo.jpeg" alt="NeurShiftAI" className="h-8 w-auto" />
         </Link>
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
